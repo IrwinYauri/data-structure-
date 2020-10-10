@@ -20,4 +20,4 @@ def dosSuman(arr,target):
     print(target, "don't exist solution")
     return sum
 
-dosSuman([2,7,11,15],9)
+dosSuman([2,7,11,15],13)
